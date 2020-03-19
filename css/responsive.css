@@ -1,0 +1,7 @@
+@media screen and (max-width:480px){
+  .portfolio_img img{
+    width:380px;
+    height:250px;
+  }
+
+}
